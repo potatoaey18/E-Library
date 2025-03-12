@@ -413,7 +413,8 @@ class MainMenu(BoxLayout):
         files_layout = BoxLayout(orientation='vertical', size_hint_y=None, spacing=dp(15))
         files_layout.bind(minimum_height=files_layout.setter('height'))
 
-        BASE_DIR = "GregorELibrary"
+        from kivy.resources import resource_add_path
+        BASE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "GregorELibrary")
 
         folder_path = os.path.join(
             BASE_DIR,
@@ -480,7 +481,10 @@ class MainMenu(BoxLayout):
         popup.open()
 
     def _handle_file_selected(self, file_name, quarter_num=None, subject=None, week_num=None):
-        BASE_DIR = "GregorELibrary"
+
+        # With platform-agnostic path handling:
+        from kivy.resources import resource_add_path
+        BASE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "GregorELibrary")
 
         file_path = os.path.join(
             BASE_DIR,
@@ -1037,7 +1041,9 @@ class MainMenu(BoxLayout):
         files_layout = BoxLayout(orientation='vertical', size_hint_y=None, spacing=dp(15))
         files_layout.bind(minimum_height=files_layout.setter('height'))
 
-        BASE_DIR = "GregorELibrary"
+        # With platform-agnostic path handling:
+        from kivy.resources import resource_add_path
+        BASE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "GregorELibrary")
 
         folder_path = os.path.join(
             BASE_DIR,
