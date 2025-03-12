@@ -44,7 +44,14 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy==2.1.0,pygments,pillow,python-pptx,pymupdf,pyobjus,android
+requirements = 
+    python3,
+    kivy,
+    lxml,
+    pptx,
+    pillow,
+    pymupdf,
+    pyobjus
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
@@ -292,9 +299,9 @@ android.ndk = 25b
 # In past, was `android.arch` as we weren't supporting builds for multiple archs at the same time.
 android.archs = arm64-v8a
 
-android.permissions = android.permission.INTERNET,\
-                      android.permission.READ_EXTERNAL_STORAGE,\
-                      android.permission.WRITE_EXTERNAL_STORAGE
+android.permissions = 
+    READ_EXTERNAL_STORAGE,
+    WRITE_EXTERNAL_STORAGE
 
 # (int) overrides automatic versionCode computation (used in build.gradle)
 # this is not the same as app version and should only be edited if you know what you're doing
