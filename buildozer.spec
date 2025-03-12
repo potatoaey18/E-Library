@@ -332,9 +332,6 @@ android.permissions = android.permission.INTERNET,\
 # (str) python-for-android fork to use in case if p4a.url is not specified, defaults to upstream (kivy)
 #p4a.fork = kivy
 
-# (str) python-for-android branch to use, defaults to master
-p4a.branch = master
-
 # (str) python-for-android specific commit to use, defaults to HEAD, must be within p4a.branch
 #p4a.commit = HEAD
 
@@ -418,6 +415,9 @@ log_level = 2
 
 # (int) Display warning if buildozer is run as root (0 = False, 1 = True)
 warn_on_root = 1
+
+# (str) python-for-android branch to use, defaults to master
+p4a.branch = master
 
 # (str) Path to build artifact storage, absolute or relative to spec file
 # build_dir = ./.buildozer
