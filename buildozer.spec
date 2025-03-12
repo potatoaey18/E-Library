@@ -16,20 +16,13 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,txt,pptx,pdf
 
 # (list) List of inclusions using pattern matching
-source.include_patterns = GregorELibrary/**/*
+source.include_patterns = images/*.png, documents/*.pptx, documents/*.pdf
 
 # (list) Source files to exclude (let empty to not exclude anything)
 #source.exclude_exts = spec
 
 # (list) List of directory to exclude (let empty to not exclude anything)
 #source.exclude_dirs = tests, bin, venv
-
-# Enable AndroidX for modern API support
-android.enable_androidx = True
-
-# Required for API 30+ storage access
-android.allow_backup = False
-android.manifest_placeholders = [androidxLegacyStorageAccessEnabled: "true"]
 
 # (list) List of exclusions using pattern matching
 # Do not prefix with './'
@@ -44,14 +37,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = 
-    python3,
-    kivy,
-    lxml==4.6.3,
-    pptx,
-    pillow,
-    pymupdf,
-    pyobjus
+requirements = python3,kivy==2.3.0,kivymd==1.1.1,pillow==10.3.0
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
@@ -114,17 +100,17 @@ fullscreen = 0
 # (list) features (adds uses-feature -tags to manifest)
 #android.features = android.hardware.usb.host
 
-# (int) Target Android API
-android.api = 33
+# (int) Target Android API, should be as high as possible.
+#android.api = 31
 
-# (int) Minimum API your APK / AAB will support
-android.minapi = 21
+# (int) Minimum API your APK / AAB will support.
+#android.minapi = 21
 
 # (int) Android SDK version to use
-android.sdk = 33
+#android.sdk = 20
 
 # (str) Android NDK version to use
-android.ndk = 25b
+#android.ndk = 23b
 
 # (int) Android NDK API to use. This is the minimum API your app will support, it should usually match android.minapi.
 #android.ndk_api = 21
@@ -297,15 +283,14 @@ android.ndk = 25b
 
 # (list) The Android archs to build for, choices: armeabi-v7a, arm64-v8a, x86, x86_64
 # In past, was `android.arch` as we weren't supporting builds for multiple archs at the same time.
-android.archs = arm64-v8a
-
-android.permissions = 
-    READ_EXTERNAL_STORAGE,
-    WRITE_EXTERNAL_STORAGE
+android.archs = arm64-v8a, armeabi-v7a
 
 # (int) overrides automatic versionCode computation (used in build.gradle)
 # this is not the same as app version and should only be edited if you know what you're doing
 # android.numeric_version = 1
+
+# (bool) enables Android auto backup feature (Android API >=23)
+android.allow_backup = True
 
 # (str) XML file for custom backup rules (see official auto backup documentation)
 # android.backup_rules =
@@ -334,6 +319,9 @@ android.permissions =
 
 # (str) python-for-android fork to use in case if p4a.url is not specified, defaults to upstream (kivy)
 #p4a.fork = kivy
+
+# (str) python-for-android branch to use, defaults to master
+p4a.branch = master
 
 # (str) python-for-android specific commit to use, defaults to HEAD, must be within p4a.branch
 #p4a.commit = HEAD
@@ -418,9 +406,6 @@ log_level = 2
 
 # (int) Display warning if buildozer is run as root (0 = False, 1 = True)
 warn_on_root = 1
-
-# (str) python-for-android branch to use
-p4a.branch = master
 
 # (str) Path to build artifact storage, absolute or relative to spec file
 # build_dir = ./.buildozer
