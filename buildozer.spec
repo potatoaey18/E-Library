@@ -47,7 +47,7 @@ version = 0.1
 requirements = 
     python3,
     kivy,
-    lxml,
+    lxml==4.6.3,
     pptx,
     pillow,
     pymupdf,
