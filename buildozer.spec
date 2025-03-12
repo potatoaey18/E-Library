@@ -304,9 +304,6 @@ android.permissions = android.permission.INTERNET,\
 # this is not the same as app version and should only be edited if you know what you're doing
 # android.numeric_version = 1
 
-# (bool) enables Android auto backup feature (Android API >=23)
-android.allow_backup = True
-
 # (str) XML file for custom backup rules (see official auto backup documentation)
 # android.backup_rules =
 
