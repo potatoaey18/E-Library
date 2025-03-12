@@ -383,7 +383,7 @@ class MainMenu(BoxLayout):
         popup_content.add_widget(close_button)
         popup.open()
 
-        def _show_files_popup(self, title, quarter_num=None, subject=None, week_num=None):
+    def _show_files_popup(self, title, quarter_num=None, subject=None, week_num=None):
         self.current_navigation_path = title
 
         # Extract information if not provided
@@ -417,7 +417,7 @@ class MainMenu(BoxLayout):
         from kivy.app import App
         BASE_DIR = os.path.join(App.get_running_app().user_data_dir, "GregorELibrary")
 
-        folder_path = os.path.join(
+                folder_path = os.path.join(
             BASE_DIR,
             f"Quarter {quarter_num}",
             f"Subject {subject}",
@@ -427,12 +427,18 @@ class MainMenu(BoxLayout):
         print(f"Looking for files in: {folder_path}")
         print(f"Quarter: {quarter_num}, Subject: {subject}, Week: {week_num}")
 
+        # Create a scrollable area for files
+        scroll_height = min(Window.height * 0.6, dp(400))  # Adaptive height
+        scroll_view = ScrollView(size_hint=(1, None), height=scroll_height)
+        files_layout = BoxLayout(orientation='vertical', size_hint_y=None, spacing=dp(15))
+        files_layout.bind(minimum_height=files_layout.setter('height'))
+
         files = []
         if os.path.exists(folder_path):
             files = [f for f in os.listdir(folder_path) 
                      if f.lower().endswith(('.pptx', '.pdf'))]  # Include PDFs
 
-             if files:
+        if files:
             for file in files:
                 file_button = Button(
                     text=f"📄 {file}",
@@ -447,7 +453,7 @@ class MainMenu(BoxLayout):
                 files_layout.add_widget(file_button)
         else:
             files_layout.add_widget(Label(
-                text=f"No PowerPoint files found in:\n{folder_path}",
+                text=f"No PowerPoint or PDF files found in:\n{folder_path}",
                 font_size=self.get_adaptive_font_size(14),
                 color=(1, 1, 1, 1),
                 size_hint=(1, None),
@@ -460,6 +466,7 @@ class MainMenu(BoxLayout):
         scroll_view.add_widget(files_layout)
         popup_content.add_widget(scroll_view)
 
+        # Close button
         close_button = Button(
             text="❌ Close",
             size_hint=(1, None),
@@ -510,13 +517,156 @@ class MainMenu(BoxLayout):
         else:
             self._show_error_popup("Error", f"File not found: {file_path}")
 
-    def ppt_to_images(self, ppt_path):
-        """Render PPTX slides as images using python-pptx only"""
+    def _show_loading_popup(self):
+        """Show a loading popup while processing files."""
+        popup_content = BoxLayout(orientation='vertical', padding=dp(20), spacing=dp(15))
+        popup_content.add_widget(Label(
+            text="Loading...",
+            font_size=self.get_adaptive_font_size(16),
+            color=(1, 1, 1, 1),
+            size_hint=(1, None),
+            height=dp(40)
+        ))
+
+        popup = Popup(
+            title="Processing",
+            content=popup_content,
+            size_hint=(0.8, 0.4),
+            title_size=self.get_adaptive_font_size(16)
+        )
+        popup.open()
+        return popup
+
+    def _show_error_popup(self, title, message):
+        """Show an error popup with a given message."""
+        popup_content = BoxLayout(orientation='vertical', padding=dp(20), spacing=dp(15))
+        popup_content.add_widget(Label(
+            text=message,
+            font_size=self.get_adaptive_font_size(14),
+            color=(1, 1, 1, 1),
+            size_hint=(1, None),
+            height=dp(80),
+            halign='center',
+            valign='middle',
+            text_size=(Window.width * 0.8, None)
+        ))
+
+        close_button = Button(
+            text="Close",
+            size_hint=(1, None),
+            height=dp(50),
+            font_size=self.get_adaptive_font_size(14)
+        )
+        self._style_pill_button(close_button, (0.8, 0.2, 0.2, 1), (1, 1, 1, 1))
+        close_button.bind(on_release=lambda btn: popup.dismiss())
+
+        popup_content.add_widget(close_button)
+
+        popup = Popup(
+            title=title,
+            content=popup_content,
+            size_hint=(0.8, 0.5),
+            title_size=self.get_adaptive_font_size(16)
+        )
+        popup.open()
+
+    def _style_pill_button(self, button, bg_color, text_color):
+        """Style a button to look like a pill."""
+        button.background_color = bg_color
+        button.color = text_color
+        with button.canvas.before:
+            Color(*bg_color)
+            button.rect = RoundedRectangle(
+                size=button.size,
+                pos=button.pos,
+                radius=[dp(25)]
+            )
+        button.bind(size=self._update_btn_shape, pos=self._update_btn_shape)
+
+    def _get_responsive_title(self, title):
+        """Return a shortened title for smaller screens."""
+        max_length = int(Window.width / dp(10))  # Adjust based on screen width
+        return title if len(title) <= max_length else title[:max_length - 3] + "..."
+
+    def convert_and_show_ppt(self, file_path):
+        """Convert PPTX to images and display them."""
         try:
-            return self._basic_ppt_rendering(ppt_path)
+            prs = Presentation(file_path)
+            images = []
+            for slide in prs.slides:
+                img_path = os.path.join(tempfile.gettempdir(), f"slide_{slide.slide_id}.png")
+                slide_image = self._extract_slide_image(slide)
+                slide_image.save(img_path, "PNG")
+                images.append(img_path)
+
+            self._display_images(images)
         except Exception as e:
-            print(f"Error rendering PPTX: {str(e)}")
-            return []
+            self._show_error_popup("Error", f"Failed to convert PPTX: {str(e)}")
+        finally:
+            if self.loading_popup:
+                self.loading_popup.dismiss()
+
+    def convert_and_show_pdf(self, file_path):
+        """Convert PDF to images and display them."""
+        try:
+            pdf_document = fitz.open(file_path)
+            images = []
+            for page_num in range(len(pdf_document)):
+                page = pdf_document.load_page(page_num)
+                pix = page.get_pixmap()
+                img_path = os.path.join(tempfile.gettempdir(), f"page_{page_num + 1}.png")
+                pix.save(img_path)
+                images.append(img_path)
+
+            self._display_images(images)
+        except Exception as e:
+            self._show_error_popup("Error", f"Failed to convert PDF: {str(e)}")
+        finally:
+            if self.loading_popup:
+                self.loading_popup.dismiss()
+
+    def _display_images(self, image_paths):
+        """Display a list of images in a scrollable popup."""
+        popup_content = BoxLayout(orientation='vertical', padding=dp(20), spacing=dp(15))
+        scroll_view = ScrollView(size_hint=(1, 1))
+        images_layout = BoxLayout(orientation='vertical', size_hint_y=None, spacing=dp(15))
+        images_layout.bind(minimum_height=images_layout.setter('height'))
+
+        for img_path in image_paths:
+            img = AsyncImage(source=img_path, size_hint=(1, None), height=dp(400))
+            images_layout.add_widget(img)
+
+        scroll_view.add_widget(images_layout)
+        popup_content.add_widget(scroll_view)
+
+        close_button = Button(
+            text="Close",
+            size_hint=(1, None),
+            height=dp(50),
+            font_size=self.get_adaptive_font_size(14)
+        )
+        self._style_pill_button(close_button, (0.8, 0.2, 0.2, 1), (1, 1, 1, 1))
+        close_button.bind(on_release=lambda btn: popup.dismiss())
+
+        popup_content.add_widget(close_button)
+
+        popup = Popup(
+            title="File Content",
+            content=popup_content,
+            size_hint=(0.95, 0.9),
+            title_size=self.get_adaptive_font_size(16)
+        )
+        popup.open()
+
+    def _extract_slide_image(self, slide):
+        """Extract an image from a PPTX slide."""
+        # Placeholder for actual implementation
+        # You can use libraries like `python-pptx` and `PIL` to render slides as images
+        img = Image.new("RGB", (800, 600), (255, 255, 255))
+        draw = ImageDraw.Draw(img)
+        draw.text((50, 50), "Slide Image Placeholder", fill="black")
+        return img
+
 
 class GregorELibraryApp(App):
     def build(self):
@@ -529,3 +679,13 @@ class GregorELibraryApp(App):
             
         Window.bind(on_keyboard=self.on_keyboard)
         return MainMenu()
+
+    def on_keyboard(self, window, key, *args):
+        """Handle Android back button."""
+        if key == 27:  # Android back button keycode
+            return True  # Prevent default behavior
+        return False
+
+
+if __name__ == '__main__':
+    GregorELibraryApp().run()
