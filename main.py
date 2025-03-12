@@ -418,11 +418,11 @@ class MainMenu(BoxLayout):
         BASE_DIR = os.path.join(App.get_running_app().user_data_dir, "GregorELibrary")
 
                 folder_path = os.path.join(
-            BASE_DIR,
-            f"Quarter {quarter_num}",
-            f"Subject {subject}",
-            f"Week {week_num}"
-        )
+                BASE_DIR,
+                f"Quarter {quarter_num}",
+                f"Subject {subject}",
+                f"Week {week_num}"
+            )
 
         print(f"Looking for files in: {folder_path}")
         print(f"Quarter: {quarter_num}, Subject: {subject}, Week: {week_num}")
