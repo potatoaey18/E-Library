@@ -14,7 +14,7 @@ from kivy.core.window import Window
 import os
 import tempfile
 from pptx import Presentation
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont 
 import io
 import fitz
 from kivy.config import Config
