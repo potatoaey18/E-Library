@@ -16,7 +16,7 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,txt,pptx,pdf
 
 # (list) List of inclusions using pattern matching
-source.include_patterns = images/*.png, documents/*.pptx, documents/*.pdf
+source.include_patterns = GregorELibrary/**/*
 
 # (list) Source files to exclude (let empty to not exclude anything)
 #source.exclude_exts = spec
@@ -24,9 +24,20 @@ source.include_patterns = images/*.png, documents/*.pptx, documents/*.pdf
 # (list) List of directory to exclude (let empty to not exclude anything)
 #source.exclude_dirs = tests, bin, venv
 
+# Enable AndroidX for modern API support
+android.enable_androidx = True
+
+# Required for API 30+ storage access
+android.allow_backup = False
+android.manifest_placeholders = [androidxLegacyStorageAccessEnabled: "true"]
+
 # (list) List of exclusions using pattern matching
 # Do not prefix with './'
 #source.exclude_patterns = license,images/*/*.jpg
+
+# Required for pptx and pdf processing
+p4a.branch = develop
+p4a.commit = 2023.10.06
 
 # (str) Application versioning (method 1)
 version = 0.1
@@ -37,7 +48,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy==2.1.0,pygments,pillow,pptx,python-docx,pypiwin32,pymupdf
+requirements = python3,kivy==2.1.0,pygments,pillow,pptx,pymupdf,pyobjus,android
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
@@ -283,9 +294,11 @@ fullscreen = 0
 
 # (list) The Android archs to build for, choices: armeabi-v7a, arm64-v8a, x86, x86_64
 # In past, was `android.arch` as we weren't supporting builds for multiple archs at the same time.
-android.archs = arm64-v8a, armeabi-v7a
+android.archs = arm64-v8a
 
-android.permissions = INTERNET, READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE
+android.permissions = android.permission.INTERNET,\
+                      android.permission.READ_EXTERNAL_STORAGE,\
+                      android.permission.WRITE_EXTERNAL_STORAGE
 
 # (int) overrides automatic versionCode computation (used in build.gradle)
 # this is not the same as app version and should only be edited if you know what you're doing
