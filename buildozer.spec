@@ -35,10 +35,6 @@ android.manifest_placeholders = [androidxLegacyStorageAccessEnabled: "true"]
 # Do not prefix with './'
 #source.exclude_patterns = license,images/*/*.jpg
 
-# Required for pptx and pdf processing
-p4a.branch = develop
-p4a.commit = 2023.10.06
-
 # (str) Application versioning (method 1)
 version = 0.1
 
@@ -111,17 +107,17 @@ fullscreen = 0
 # (list) features (adds uses-feature -tags to manifest)
 #android.features = android.hardware.usb.host
 
-# (int) Target Android API, should be as high as possible.
-#android.api = 31
+# (int) Target Android API
+android.api = 33
 
-# (int) Minimum API your APK / AAB will support.
-#android.minapi = 21
+# (int) Minimum API your APK / AAB will support
+android.minapi = 21
 
 # (int) Android SDK version to use
-#android.sdk = 20
+android.sdk = 33
 
 # (str) Android NDK version to use
-#android.ndk = 23b
+android.ndk = 25b
 
 # (int) Android NDK API to use. This is the minimum API your app will support, it should usually match android.minapi.
 #android.ndk_api = 21
@@ -416,7 +412,7 @@ log_level = 2
 # (int) Display warning if buildozer is run as root (0 = False, 1 = True)
 warn_on_root = 1
 
-# (str) python-for-android branch to use, defaults to master
+# (str) python-for-android branch to use
 p4a.branch = master
 
 # (str) Path to build artifact storage, absolute or relative to spec file
