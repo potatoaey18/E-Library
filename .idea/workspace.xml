@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bfbb75a-3b87-4bfd-a8ad-e7d485e785a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 1/Lesson 1 - Subject 1 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 1/Lesson 2 - Subject 1 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 1/Lesson 3 - Subject 1 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 2/Lesson 1 - Subject 1 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 2/Lesson 2 - Subject 1 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 2/Lesson 3 - Subject 1 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 3/Lesson 1 - Subject 1 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 3/Lesson 2 - Subject 1 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 3/Lesson 3 - Subject 1 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 4/Lesson 1 - Subject 1 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 4/Lesson 2 - Subject 1 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 4/Lesson 3 - Subject 1 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 5/Lesson 1 - Subject 1 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 5/Lesson 2 - Subject 1 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 5/Lesson 3 - Subject 1 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 6/Lesson 1 - Subject 1 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 6/Lesson 2 - Subject 1 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 6/Lesson 3 - Subject 1 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 7/Lesson 1 - Subject 1 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 7/Lesson 2 - Subject 1 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 7/Lesson 3 - Subject 1 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 8/Lesson 1 - Subject 1 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 8/Lesson 2 - Subject 1 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 1 - Oral Comm/Week 8/Lesson 3 - Subject 1 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 1/Lesson 1 - Subject 2 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 1/Lesson 2 - Subject 2 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 1/Lesson 3 - Subject 2 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 2/Lesson 1 - Subject 2 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 2/Lesson 2 - Subject 2 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 2/Lesson 3 - Subject 2 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 3/Lesson 1 - Subject 2 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 3/Lesson 2 - Subject 2 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 3/Lesson 3 - Subject 2 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 4/Lesson 1 - Subject 2 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 4/Lesson 2 - Subject 2 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 4/Lesson 3 - Subject 2 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 5/Lesson 1 - Subject 2 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 5/Lesson 2 - Subject 2 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 5/Lesson 3 - Subject 2 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 6/Lesson 1 - Subject 2 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 6/Lesson 2 - Subject 2 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 6/Lesson 3 - Subject 2 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 7/Lesson 1 - Subject 2 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 7/Lesson 2 - Subject 2 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 7/Lesson 3 - Subject 2 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 8/Lesson 1 - Subject 2 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 8/Lesson 2 - Subject 2 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 2 - Komunikasyon/Week 8/Lesson 3 - Subject 2 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 1/Lesson 1 - Subject 3 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 1/Lesson 2 - Subject 3 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 1/Lesson 3 - Subject 3 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 2/Lesson 1 - Subject 3 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 2/Lesson 2 - Subject 3 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 2/Lesson 3 - Subject 3 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 3/Lesson 1 - Subject 3 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 3/Lesson 2 - Subject 3 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 3/Lesson 3 - Subject 3 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 4/Lesson 1 - Subject 3 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 4/Lesson 2 - Subject 3 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 4/Lesson 3 - Subject 3 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 5/Lesson 1 - Subject 3 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 5/Lesson 2 - Subject 3 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 5/Lesson 3 - Subject 3 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 6/Lesson 1 - Subject 3 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 6/Lesson 2 - Subject 3 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 6/Lesson 3 - Subject 3 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 7/Lesson 1 - Subject 3 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 7/Lesson 2 - Subject 3 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 7/Lesson 3 - Subject 3 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 8/Lesson 1 - Subject 3 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 8/Lesson 2 - Subject 3 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 3 - General Mathematics/Week 8/Lesson 3 - Subject 3 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 1/Lesson 1 - Subject 4 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 1/Lesson 2 - Subject 4 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 1/Lesson 3 - Subject 4 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 2/Lesson 1 - Subject 4 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 2/Lesson 2 - Subject 4 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 2/Lesson 3 - Subject 4 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 3/Lesson 1 - Subject 4 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 3/Lesson 2 - Subject 4 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 3/Lesson 3 - Subject 4 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 4/Lesson 1 - Subject 4 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 4/Lesson 2 - Subject 4 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 4/Lesson 3 - Subject 4 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 5/Lesson 1 - Subject 4 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 5/Lesson 2 - Subject 4 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 5/Lesson 3 - Subject 4 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 6/Lesson 1 - Subject 4 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 6/Lesson 2 - Subject 4 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 6/Lesson 3 - Subject 4 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 7/Lesson 1 - Subject 4 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 7/Lesson 2 - Subject 4 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 7/Lesson 3 - Subject 4 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 8/Lesson 1 - Subject 4 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 8/Lesson 2 - Subject 4 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 4 - Earth Science/Week 8/Lesson 3 - Subject 4 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 1/Lesson 1 - Subject 5 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 1/Lesson 2 - Subject 5 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 1/Lesson 3 - Subject 5 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 2/Lesson 1 - Subject 5 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 2/Lesson 2 - Subject 5 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 2/Lesson 3 - Subject 5 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 3/Lesson 1 - Subject 5 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 3/Lesson 2 - Subject 5 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 3/Lesson 3 - Subject 5 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 4/Lesson 1 - Subject 5 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 4/Lesson 2 - Subject 5 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 4/Lesson 3 - Subject 5 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 5/Lesson 1 - Subject 5 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 5/Lesson 2 - Subject 5 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 5/Lesson 3 - Subject 5 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 6/Lesson 1 - Subject 5 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 6/Lesson 2 - Subject 5 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 6/Lesson 3 - Subject 5 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 7/Lesson 1 - Subject 5 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 7/Lesson 2 - Subject 5 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 7/Lesson 3 - Subject 5 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 8/Lesson 1 - Subject 5 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 8/Lesson 2 - Subject 5 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 5 - Understanding Culture, Society, and Politics/Week 8/Lesson 3 - Subject 5 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 1/Lesson 1 - Subject 6 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 1/Lesson 2 - Subject 6 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 1/Lesson 3 - Subject 6 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 2/Lesson 1 - Subject 6 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 2/Lesson 2 - Subject 6 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 2/Lesson 3 - Subject 6 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 3/Lesson 1 - Subject 6 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 3/Lesson 2 - Subject 6 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 3/Lesson 3 - Subject 6 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 4/Lesson 1 - Subject 6 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 4/Lesson 2 - Subject 6 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 4/Lesson 3 - Subject 6 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 5/Lesson 1 - Subject 6 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 5/Lesson 2 - Subject 6 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 5/Lesson 3 - Subject 6 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 6/Lesson 1 - Subject 6 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 6/Lesson 2 - Subject 6 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 6/Lesson 3 - Subject 6 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 7/Lesson 1 - Subject 6 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 7/Lesson 2 - Subject 6 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 7/Lesson 3 - Subject 6 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 8/Lesson 1 - Subject 6 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 8/Lesson 2 - Subject 6 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 6 - Personal Development/Week 8/Lesson 3 - Subject 6 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 1/Lesson 1 - Subject 7 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 1/Lesson 2 - Subject 7 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 1/Lesson 3 - Subject 7 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 2/Lesson 1 - Subject 7 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 2/Lesson 2 - Subject 7 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 2/Lesson 3 - Subject 7 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 3/Lesson 1 - Subject 7 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 3/Lesson 2 - Subject 7 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 3/Lesson 3 - Subject 7 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 4/Lesson 1 - Subject 7 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 4/Lesson 2 - Subject 7 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 4/Lesson 3 - Subject 7 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 5/Lesson 1 - Subject 7 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 5/Lesson 2 - Subject 7 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 5/Lesson 3 - Subject 7 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 6/Lesson 1 - Subject 7 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 6/Lesson 2 - Subject 7 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 6/Lesson 3 - Subject 7 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 7/Lesson 1 - Subject 7 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 7/Lesson 2 - Subject 7 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 7/Lesson 3 - Subject 7 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 8/Lesson 1 - Subject 7 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 8/Lesson 2 - Subject 7 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 1/Subject 7 - PE/Week 8/Lesson 3 - Subject 7 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 1/Lesson 1 - Subject 1 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 1/Lesson 2 - Subject 1 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 1/Lesson 3 - Subject 1 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 2/Lesson 1 - Subject 1 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 2/Lesson 2 - Subject 1 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 2/Lesson 3 - Subject 1 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 3/Lesson 1 - Subject 1 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 3/Lesson 2 - Subject 1 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 3/Lesson 3 - Subject 1 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 4/Lesson 1 - Subject 1 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 4/Lesson 2 - Subject 1 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 4/Lesson 3 - Subject 1 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 5/Lesson 1 - Subject 1 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 5/Lesson 2 - Subject 1 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 5/Lesson 3 - Subject 1 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 6/Lesson 1 - Subject 1 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 6/Lesson 2 - Subject 1 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 6/Lesson 3 - Subject 1 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 7/Lesson 1 - Subject 1 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 7/Lesson 2 - Subject 1 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 7/Lesson 3 - Subject 1 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 8/Lesson 1 - Subject 1 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 8/Lesson 2 - Subject 1 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 1 - Oral Comm/Week 8/Lesson 3 - Subject 1 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 1/Lesson 1 - Subject 2 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 1/Lesson 2 - Subject 2 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 1/Lesson 3 - Subject 2 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 2/Lesson 1 - Subject 2 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 2/Lesson 2 - Subject 2 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 2/Lesson 3 - Subject 2 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 3/Lesson 1 - Subject 2 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 3/Lesson 2 - Subject 2 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 3/Lesson 3 - Subject 2 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 4/Lesson 1 - Subject 2 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 4/Lesson 2 - Subject 2 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 4/Lesson 3 - Subject 2 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 5/Lesson 1 - Subject 2 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 5/Lesson 2 - Subject 2 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 5/Lesson 3 - Subject 2 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 6/Lesson 1 - Subject 2 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 6/Lesson 2 - Subject 2 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 6/Lesson 3 - Subject 2 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 7/Lesson 1 - Subject 2 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 7/Lesson 2 - Subject 2 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 7/Lesson 3 - Subject 2 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 8/Lesson 1 - Subject 2 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 8/Lesson 2 - Subject 2 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 2 - Komunikasyon/Week 8/Lesson 3 - Subject 2 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 1/Lesson 1 - Subject 3 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 1/Lesson 2 - Subject 3 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 1/Lesson 3 - Subject 3 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 2/Lesson 1 - Subject 3 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 2/Lesson 2 - Subject 3 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 2/Lesson 3 - Subject 3 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 3/Lesson 1 - Subject 3 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 3/Lesson 2 - Subject 3 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 3/Lesson 3 - Subject 3 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 4/Lesson 1 - Subject 3 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 4/Lesson 2 - Subject 3 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 4/Lesson 3 - Subject 3 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 5/Lesson 1 - Subject 3 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 5/Lesson 2 - Subject 3 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 5/Lesson 3 - Subject 3 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 6/Lesson 1 - Subject 3 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 6/Lesson 2 - Subject 3 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 6/Lesson 3 - Subject 3 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 7/Lesson 1 - Subject 3 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 7/Lesson 2 - Subject 3 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 7/Lesson 3 - Subject 3 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 8/Lesson 1 - Subject 3 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 8/Lesson 2 - Subject 3 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 3 - General Mathematics/Week 8/Lesson 3 - Subject 3 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 1/Lesson 1 - Subject 4 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 1/Lesson 2 - Subject 4 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 1/Lesson 3 - Subject 4 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 2/Lesson 1 - Subject 4 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 2/Lesson 2 - Subject 4 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 2/Lesson 3 - Subject 4 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 3/Lesson 1 - Subject 4 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 3/Lesson 2 - Subject 4 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 3/Lesson 3 - Subject 4 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 4/Lesson 1 - Subject 4 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 4/Lesson 2 - Subject 4 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 4/Lesson 3 - Subject 4 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 5/Lesson 1 - Subject 4 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 5/Lesson 2 - Subject 4 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 5/Lesson 3 - Subject 4 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 6/Lesson 1 - Subject 4 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 6/Lesson 2 - Subject 4 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 6/Lesson 3 - Subject 4 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 7/Lesson 1 - Subject 4 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 7/Lesson 2 - Subject 4 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 7/Lesson 3 - Subject 4 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 8/Lesson 1 - Subject 4 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 8/Lesson 2 - Subject 4 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 4 - Earth Science/Week 8/Lesson 3 - Subject 4 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 1/Lesson 1 - Subject 5 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 1/Lesson 2 - Subject 5 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 1/Lesson 3 - Subject 5 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 2/Lesson 1 - Subject 5 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 2/Lesson 2 - Subject 5 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 2/Lesson 3 - Subject 5 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 3/Lesson 1 - Subject 5 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 3/Lesson 2 - Subject 5 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 3/Lesson 3 - Subject 5 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 4/Lesson 1 - Subject 5 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 4/Lesson 2 - Subject 5 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 4/Lesson 3 - Subject 5 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 5/Lesson 1 - Subject 5 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 5/Lesson 2 - Subject 5 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 5/Lesson 3 - Subject 5 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 6/Lesson 1 - Subject 5 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 6/Lesson 2 - Subject 5 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 6/Lesson 3 - Subject 5 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 7/Lesson 1 - Subject 5 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 7/Lesson 2 - Subject 5 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 7/Lesson 3 - Subject 5 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 8/Lesson 1 - Subject 5 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 8/Lesson 2 - Subject 5 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 5 - Understanding Culture, Society, and Politics/Week 8/Lesson 3 - Subject 5 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 1/Lesson 1 - Subject 6 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 1/Lesson 2 - Subject 6 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 1/Lesson 3 - Subject 6 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 2/Lesson 1 - Subject 6 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 2/Lesson 2 - Subject 6 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 2/Lesson 3 - Subject 6 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 3/Lesson 1 - Subject 6 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 3/Lesson 2 - Subject 6 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 3/Lesson 3 - Subject 6 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 4/Lesson 1 - Subject 6 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 4/Lesson 2 - Subject 6 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 4/Lesson 3 - Subject 6 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 5/Lesson 1 - Subject 6 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 5/Lesson 2 - Subject 6 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 5/Lesson 3 - Subject 6 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 6/Lesson 1 - Subject 6 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 6/Lesson 2 - Subject 6 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 6/Lesson 3 - Subject 6 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 7/Lesson 1 - Subject 6 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 7/Lesson 2 - Subject 6 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 7/Lesson 3 - Subject 6 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 8/Lesson 1 - Subject 6 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 8/Lesson 2 - Subject 6 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 6 - Personal Development/Week 8/Lesson 3 - Subject 6 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 1/Lesson 1 - Subject 7 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 1/Lesson 2 - Subject 7 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 1/Lesson 3 - Subject 7 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 2/Lesson 1 - Subject 7 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 2/Lesson 2 - Subject 7 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 2/Lesson 3 - Subject 7 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 3/Lesson 1 - Subject 7 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 3/Lesson 2 - Subject 7 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 3/Lesson 3 - Subject 7 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 4/Lesson 1 - Subject 7 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 4/Lesson 2 - Subject 7 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 4/Lesson 3 - Subject 7 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 5/Lesson 1 - Subject 7 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 5/Lesson 2 - Subject 7 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 5/Lesson 3 - Subject 7 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 6/Lesson 1 - Subject 7 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 6/Lesson 2 - Subject 7 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 6/Lesson 3 - Subject 7 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 7/Lesson 1 - Subject 7 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 7/Lesson 2 - Subject 7 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 7/Lesson 3 - Subject 7 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 8/Lesson 1 - Subject 7 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 8/Lesson 2 - Subject 7 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 2/Subject 7 - PE/Week 8/Lesson 3 - Subject 7 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 1 - Reading and Writing/Week 1/Lesson 1 - Subject 1 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 1 - Reading and Writing/Week 2/Lesson 1 - Subject 1 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 1 - Reading and Writing/Week 3/Lesson 1 - Subject 1 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 1 - Reading and Writing/Week 4/Lesson 1 - Subject 1 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 1 - Reading and Writing/Week 5/Lesson 1 - Subject 1 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 1/Lesson 1 - Subject 2 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 1/Lesson 2 - Subject 2 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 1/Lesson 3 - Subject 2 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 2/Lesson 1 - Subject 2 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 2/Lesson 2 - Subject 2 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 2/Lesson 3 - Subject 2 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 3/Lesson 1 - Subject 2 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 3/Lesson 2 - Subject 2 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 3/Lesson 3 - Subject 2 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 4/Lesson 1 - Subject 2 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 4/Lesson 2 - Subject 2 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 4/Lesson 3 - Subject 2 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 5/Lesson 1 - Subject 2 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 5/Lesson 2 - Subject 2 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 5/Lesson 3 - Subject 2 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 6/Lesson 1 - Subject 2 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 6/Lesson 2 - Subject 2 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 6/Lesson 3 - Subject 2 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 7/Lesson 1 - Subject 2 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 7/Lesson 2 - Subject 2 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 7/Lesson 3 - Subject 2 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 8/Lesson 1 - Subject 2 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 8/Lesson 2 - Subject 2 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 2 - Pagbasa/Week 8/Lesson 3 - Subject 2 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 3 - 21st Century Literature/Week 1/Lesson 1 - Subject 3 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 3 - 21st Century Literature/Week 2/Lesson 1 - Subject 3 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 3 - 21st Century Literature/Week 3/Lesson 1 - Subject 3 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 3 - 21st Century Literature/Week 4/Lesson 1 - Subject 3 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 4 - Statistics and Probability/Week 1/Lesson 1 - Subject 4 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 4 - Statistics and Probability/Week 2/Lesson 1 - Subject 4 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 4 - Statistics and Probability/Week 3/Lesson 1 - Subject 4 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 4 - Statistics and Probability/Week 4/Lesson 1 - Subject 4 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 1/Lesson 1 - Subject 5 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 1/Lesson 2 - Subject 5 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 1/Lesson 3 - Subject 5 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 2/Lesson 1 - Subject 5 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 2/Lesson 2 - Subject 5 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 2/Lesson 3 - Subject 5 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 3/Lesson 1 - Subject 5 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 3/Lesson 2 - Subject 5 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 3/Lesson 3 - Subject 5 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 4/Lesson 1 - Subject 5 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 4/Lesson 2 - Subject 5 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 4/Lesson 3 - Subject 5 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 5/Lesson 1 - Subject 5 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 5/Lesson 2 - Subject 5 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 5/Lesson 3 - Subject 5 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 6/Lesson 1 - Subject 5 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 6/Lesson 2 - Subject 5 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 6/Lesson 3 - Subject 5 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 7/Lesson 1 - Subject 5 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 7/Lesson 2 - Subject 5 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 7/Lesson 3 - Subject 5 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 8/Lesson 1 - Subject 5 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 8/Lesson 2 - Subject 5 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 3/Subject 5 - PE/Week 8/Lesson 3 - Subject 5 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 1 - Reading and Writing/Week 1/Lesson 1 - Subject 1 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 1 - Reading and Writing/Week 1/notes.pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 1 - Reading and Writing/Week 2/Lesson 1 - Subject 1 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 1 - Reading and Writing/Week 3/Lesson 1 - Subject 1 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 1 - Reading and Writing/Week 4/Lesson 1 - Subject 1 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 1 - Reading and Writing/Week 5/Lesson 1 - Subject 1 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 1/Lesson 1 - Subject 2 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 1/Lesson 2 - Subject 2 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 1/Lesson 3 - Subject 2 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 2/Lesson 1 - Subject 2 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 2/Lesson 2 - Subject 2 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 2/Lesson 3 - Subject 2 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 3/Lesson 1 - Subject 2 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 3/Lesson 2 - Subject 2 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 3/Lesson 3 - Subject 2 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 4/Lesson 1 - Subject 2 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 4/Lesson 2 - Subject 2 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 4/Lesson 3 - Subject 2 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 5/Lesson 1 - Subject 2 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 5/Lesson 2 - Subject 2 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 5/Lesson 3 - Subject 2 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 6/Lesson 1 - Subject 2 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 6/Lesson 2 - Subject 2 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 6/Lesson 3 - Subject 2 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 7/Lesson 1 - Subject 2 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 7/Lesson 2 - Subject 2 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 7/Lesson 3 - Subject 2 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 8/Lesson 1 - Subject 2 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 8/Lesson 2 - Subject 2 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 2 - Pagbasa/Week 8/Lesson 3 - Subject 2 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 3 - 21st Century Literature/Week 1/Lesson 1 - Subject 3 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 3 - 21st Century Literature/Week 2/Lesson 1 - Subject 3 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 3 - 21st Century Literature/Week 3/Lesson 1 - Subject 3 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 3 - 21st Century Literature/Week 4/Lesson 1 - Subject 3 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 4 - Statistics and Probability/Week 1/Lesson 1 - Subject 4 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 4 - Statistics and Probability/Week 2/Lesson 1 - Subject 4 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 4 - Statistics and Probability/Week 3/Lesson 1 - Subject 4 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 4 - Statistics and Probability/Week 4/Lesson 1 - Subject 4 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 1/Lesson 1 - Subject 5 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 1/Lesson 2 - Subject 5 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 1/Lesson 3 - Subject 5 - Week 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 2/Lesson 1 - Subject 5 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 2/Lesson 2 - Subject 5 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 2/Lesson 3 - Subject 5 - Week 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 3/Lesson 1 - Subject 5 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 3/Lesson 2 - Subject 5 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 3/Lesson 3 - Subject 5 - Week 3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 4/Lesson 1 - Subject 5 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 4/Lesson 2 - Subject 5 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 4/Lesson 3 - Subject 5 - Week 4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 5/Lesson 1 - Subject 5 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 5/Lesson 2 - Subject 5 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 5/Lesson 3 - Subject 5 - Week 5.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 6/Lesson 1 - Subject 5 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 6/Lesson 2 - Subject 5 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 6/Lesson 3 - Subject 5 - Week 6.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 7/Lesson 1 - Subject 5 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 7/Lesson 2 - Subject 5 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 7/Lesson 3 - Subject 5 - Week 7.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 8/Lesson 1 - Subject 5 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 8/Lesson 2 - Subject 5 - Week 8.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GregorELibrary/Quarter 4/Subject 5 - PE/Week 8/Lesson 3 - Subject 5 - Week 8.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildozer.spec" beforeDir="false" afterPath="$PROJECT_DIR$/buildozer.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2uB7Xibsq1YDxeRjMgnRuVdewxM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Agatha May/Downloads/SAMPLE-KIVYMD-APP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bfbb75a-3b87-4bfd-a8ad-e7d485e785a9" name="Changes" comment="" />
+      <created>1741710154960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741710154960</updated>
+      <workItem from="1741710156114" duration="2381000" />
+      <workItem from="1741772268422" duration="249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SAMPLE_KIVYMD_APP$main.coverage" NAME="main Coverage Results" MODIFIED="1741772343490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

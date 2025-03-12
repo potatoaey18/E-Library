@@ -1,22 +1,22 @@
 [app]
 
 # (str) Title of your application
-title = SampleApp
+title = GregorELibrary
 
 # (str) Package name
-package.name = nfsApk
+package.name = GregorApk
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.novfensec
+package.domain = org.gregor
 
 # (str) Source code where the main.py live
 source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
-source.include_exts = py,png,jpg,kv,atlas
+source.include_exts = py,png,jpg,kv,atlas,txt,pptx,pdf
 
 # (list) List of inclusions using pattern matching
-source.include_patterns = images/*.png
+source.include_patterns = images/*.png, documents/*.pptx, documents/*.pdf
 
 # (list) Source files to exclude (let empty to not exclude anything)
 #source.exclude_exts = spec
