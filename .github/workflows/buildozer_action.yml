@@ -103,7 +103,6 @@ jobs:
             libffi-dev \
             libssl-dev \
             automake
-          python -m pip install appdirs
 
       # Set up Java 17 required by Gradle
       - name: Setup Java 17 required by Gradle
@@ -128,7 +127,6 @@ jobs:
       - name: Build with Buildozer
         id: buildozer
         run: |
-          yes | buildozer android clean
           yes | buildozer -v android debug
         # yes | buildozer -v android release
         # run this for generating aab (Android App Bundle) [Required by google play]
