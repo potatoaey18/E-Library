@@ -509,14 +509,47 @@ class MainMenu(BoxLayout):
             elif platform.system() == "Darwin":
                 # For macOS
                 subprocess.run(["open", file_path], check=True)
-            else:
-                # For Linux or other platforms
+            elif platform.system() == "Linux" and not self.is_android():
+                # For Linux (non-Android)
                 subprocess.run(["xdg-open", file_path], check=True)
+            else:
+                # For Android
+                self.open_file_on_android(file_path)
         except Exception as e:
             self._show_error_popup("Error", f"Failed to open file: {e}")
         finally:
             if self.loading_popup:
                 self.loading_popup.dismiss()
+
+    def is_android(self):
+        """Check if the app is running on Android."""
+        return platform.system() == "Linux" and hasattr(android, "activity")
+
+    def open_file_on_android(self, file_path):
+        """Open a file on Android using an intent."""
+        try:
+            from android import mActivity
+            from jnius import autoclass, cast
+
+            # Java classes required for Android intents
+            Intent = autoclass("android.content.Intent")
+            Uri = autoclass("android.net.Uri")
+            File = autoclass("java.io.File")
+            PythonActivity = autoclass("org.kivy.android.PythonActivity")
+
+            # Create a URI for the file
+            file = File(file_path)
+            uri = Uri.fromFile(file)
+
+            # Create an intent to view the file
+            intent = Intent(Intent.ACTION_VIEW)
+            intent.setDataAndType(uri, "application/vnd.ms-powerpoint")
+
+            # Start the activity
+            current_activity = cast("android.app.Activity", PythonActivity.mActivity)
+            current_activity.startActivity(intent)
+        except Exception as e:
+            self._show_error_popup("Error", f"Failed to open file on Android: {e}")
 
     def _show_loading_popup(self):
         popup_content = BoxLayout(orientation='vertical', padding=dp(20), spacing=dp(15))
