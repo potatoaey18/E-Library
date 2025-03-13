@@ -13,15 +13,6 @@ import subprocess
 import platform
 from threading import Thread
 
-Config.set('kivy', 'window_icon', '')
-Config.set('graphics', 'resizable', '0')
-Config.set('graphics', 'width', '412')
-Config.set('graphics', 'height', '732')
-Config.set('graphics', 'orientation', 'portrait')
-
-Window.rotation = 0
-Window.size = (412, 615)
-
 class MainMenu(BoxLayout):
     def __init__(self, **kwargs):
         super().__init__(orientation='vertical', **kwargs)
